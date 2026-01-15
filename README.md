@@ -3,8 +3,11 @@ GenAI-Powered Job Application Assistant for Inclusive Communication for services
 
 **Imagine a scenario:**
 
-- Nike needs a Principal Software Engineer and is spending time and resources in the hiring process, on boarding, training etc
-- Atliq is Software Development company can provide a dedicated software development engineer to Nike. So, the business development executive (Mohan) from Atliq is going to reach out to Nike via a cold email.
+- Ramesh is looking for a job but struggles with reading and writing. He is unsure which job best matches his skills and finds the job application process difficult and time-consuming.
+
+- Understanding job descriptions and writing professional application emails is challenging for him.
+
+- The GenAI-Powered Job Application Assistant for Inclusive Communication helps Ramesh overcome these challenges.
 
 ![img.png](imgs/img.png)
 
